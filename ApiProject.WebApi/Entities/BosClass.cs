@@ -1,6 +1,6 @@
 ﻿namespace ApiProject.WebApi.Entities
 {
-    public class yeni
+    public class BosClass
     {
     }
 }
